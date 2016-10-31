@@ -4,6 +4,8 @@ This is a personal list of data science questions with their answers
 
 ## Data
 
+- Latent variables: are variables that are not directly observed but are rather inferred (through a mathematical model) from other variables that are observed (directly measured). Example: result of a PCA https://en.wikipedia.org/wiki/Latent_variable
+
 ## Feature engineering
 
 ### Calculate feature importance
