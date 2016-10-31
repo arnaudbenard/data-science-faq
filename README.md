@@ -5,6 +5,7 @@ This is a personal list of data science questions with their answers
 ## Data
 
 - Latent variables: are variables that are not directly observed but are rather inferred (through a mathematical model) from other variables that are observed (directly measured). Example: result of a PCA https://en.wikipedia.org/wiki/Latent_variable
+- One hot encoding: vector with all 0 but one 1. Example: [0, 0, 1, 0] https://en.wikipedia.org/wiki/One-hot
 
 ## Feature engineering
 
